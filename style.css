@@ -1,0 +1,16 @@
+/* Put your styles here */
+
+body {
+  background: #333;
+  color: #fff;
+  font-size: 1.5em;
+  padding: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a, a:active, a:visited {
+  color: #99f;
+}
